@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Player Rank FRMG
+Plugin Name: Player Rank
 Description: Displays WAGR Rank, University Rank, and Chart via shortcodes.
 Version: 1.0
 Author: Younes Idmoussa
